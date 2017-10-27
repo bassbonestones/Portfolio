@@ -1,8 +1,0 @@
-﻿  Liquid.cpp
-c:\users\jeremy\documents\school stuff\advanced cpp\stones_pointers\liquid.cpp(59): warning C4101: 'ex': unreferenced local variable
-c:\users\jeremy\documents\school stuff\advanced cpp\stones_pointers\liquid.cpp(87): warning C4101: 'ex': unreferenced local variable
-  Generating Code...
-  Skipping... (no relevant changes detected)
-  main.cpp
-  Stones_pointers.vcxproj -> C:\Users\Jeremy\Documents\school stuff\Advanced CPP\Stones_pointers\Debug\Stones_pointers.exe
-  Stones_pointers.vcxproj -> C:\Users\Jeremy\Documents\school stuff\Advanced CPP\Stones_pointers\Debug\Stones_pointers.pdb (Partial PDB)
