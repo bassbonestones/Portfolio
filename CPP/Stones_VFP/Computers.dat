@@ -1,0 +1,10 @@
+Desktop,Dell,XPS 27 AIO,3.4GHz quad core Intel i7,512,1549.99,16,AMD Radion R9 M470X,Windows 10 Home,1,N
+Desktop,HP,Pavilion Wave,2.2GHz quad core Intel i5,2000,529.99,8,AMD Radeon R9 M470,Windows 10 Home,0,N
+Laptop,Asus,Chromebook Flip,1.8GHz quad core Rockchip,16,199.99,2,none,Chrome OS,2,7260NGW
+Laptop,HP,Spectre x360,3.5GHz dual core Intel i7,512,1399.99,16,Intel HD,Windows 10 Home,2.89,13-4003DX
+Laptop,Samsung,Notebook 9,2.5GHz dual core Intel i5,512,1199.99,8,HD Graphics 620,Windows 10 Home,1.8,NP R480
+CellPhone,Samsung,Galaxy S3,1.4GHz quad core,16,149.99,1,4.8,Micro SIM,5.38,2.78,0.34
+CellPhone,Apple,iPhone 7,2.34GHz quad core,32,649.00,2,4.7,Nano SIM,5.44,2.64,0.28
+CellPhone,Nokia,5230,434MHz ARM 11,0.07,89.72,0.128,3.2,Mini SIM,4.37,2.04,0.61
+Tablet,Apple,iPad Mini 4,1.5GHz dual core Typhoon,26,399.00,2,7.9,324,Y
+Tablet,Google,Pixel C,1.9GHz quad core,32,599.00,3,10.2,308,Y

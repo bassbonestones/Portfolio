@@ -1,0 +1,23 @@
+﻿  VendingPrepackSnack.cpp
+c:\users\jeremy\documents\school stuff\advanced cpp\sixtyninepointfive_templates\vendingprepacksnack.cpp(16): warning C4101: 'selection': unreferenced local variable
+c:\users\jeremy\documents\school stuff\advanced cpp\sixtyninepointfive_templates\vendingprepacksnack.cpp(334): warning C4101: 'selection': unreferenced local variable
+c:\users\jeremy\documents\school stuff\advanced cpp\sixtyninepointfive_templates\vendingprepacksnack.cpp(475): warning C4101: 'selection': unreferenced local variable
+  VendingMachine.cpp
+  main.cpp
+  VendingFountain.cpp
+c:\users\jeremy\documents\school stuff\advanced cpp\sixtyninepointfive_templates\vendingfountain.cpp(389): warning C4101: 'selection': unreferenced local variable
+c:\users\jeremy\documents\school stuff\advanced cpp\sixtyninepointfive_templates\vendingfountain.cpp(537): warning C4101: 'selection': unreferenced local variable
+  VendingBottledBev.cpp
+c:\users\jeremy\documents\school stuff\advanced cpp\sixtyninepointfive_templates\vendingbottledbev.cpp(17): warning C4101: 'selection': unreferenced local variable
+c:\users\jeremy\documents\school stuff\advanced cpp\sixtyninepointfive_templates\vendingbottledbev.cpp(332): warning C4101: 'selection': unreferenced local variable
+c:\users\jeremy\documents\school stuff\advanced cpp\sixtyninepointfive_templates\vendingbottledbev.cpp(475): warning C4101: 'selection': unreferenced local variable
+  Root.cpp
+c:\users\jeremy\documents\school stuff\advanced cpp\sixtyninepointfive_templates\root.cpp(6): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\jeremy\documents\school stuff\advanced cpp\sixtyninepointfive_templates\root.cpp(13): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\jeremy\documents\school stuff\advanced cpp\sixtyninepointfive_templates\root.cpp(32): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\jeremy\documents\school stuff\advanced cpp\sixtyninepointfive_templates\root.cpp(164): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jeremy\documents\school stuff\advanced cpp\sixtyninepointfive_templates\root.cpp(257): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Operations.cpp
+  Generating Code...
+  SixtyNinePointFive_Poly.vcxproj -> C:\Users\Jeremy\Documents\school stuff\Advanced CPP\SixtyNinePointFive_Templates\x64\Debug\SixtyNinePointFive_Templates.exe
+  SixtyNinePointFive_Poly.vcxproj -> C:\Users\Jeremy\Documents\school stuff\Advanced CPP\SixtyNinePointFive_Templates\x64\Debug\SixtyNinePointFive_Templates.pdb (Partial PDB)
