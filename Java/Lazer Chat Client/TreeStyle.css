@@ -1,0 +1,12 @@
+.my-tree, .tree-cell{
+-fx-background-color: #555555 ;
+-fx-text-fill: #FFFFFF ;fx-background: #000000;
+}
+
+.tree-cell:hover {
+    -fx-background-color: #000000 ;
+}
+
+.tree-cell:hover .highlight-on-hover {
+    -fx-text-fill: red ;
+}

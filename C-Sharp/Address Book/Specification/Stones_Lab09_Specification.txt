@@ -1,0 +1,6 @@
+Jeremiah Stones
+Advanced C#
+Kathy Wilganowsky
+
+Program Specification:
+This program is part 2 of 2 of the program started in Lab 08.  This program loads an address book from a file into a list of class objects (Entries).  The user may then View, Update, Add, or Delete the contacts on the list.  The user may search the contacts from the list by first, last, or full name. The user may also print or print preview the contents of the list.  When the user exits, the changes to the list of contacts is saved back (writes over) the original contacts file.
